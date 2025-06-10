@@ -18,7 +18,7 @@ Our system employs specialized agents working collaboratively to deliver end-to-
 
 • Local Public Transportation Agent 🚍: Suggests optimal public transportation options for easy commuting within the travel area.
 
-Project Objectives
+## Project Objectives
 The primary goal of this project is to enhance the travel planning experience by automating complex decision-making processes through a multi-agent architecture. Each agent operates independently but contributes to a unified output, providing:
 
 • Personalized recommendations
@@ -27,12 +27,12 @@ The primary goal of this project is to enhance the travel planning experience by
 
 • Enhanced user satisfaction
 
-Technical Stack
+## Technical Stack
 • Programming Language: Python
 
 • Large Language Models (LLMs): Integrated AI models for natural language processing and decision-making.
 
-APIs and Libraries:
+## APIs and Libraries:
 • Airline and flight search APIs
 
 • Weather forecasting APIs
